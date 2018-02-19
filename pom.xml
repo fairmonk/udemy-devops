@@ -41,7 +41,7 @@
 
 	<scm>
 		<connection>scm:git:git@github.com:fairmonk/udemy-devops.git</connection>
-		<developerConnection>scm:git:git@github.com:nandudemy/udemy-devops.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:fairmonk/udemy-devops.git</developerConnection>
 		<url>git@github.com:fairmonk/devops.git</url>
 		<tag>HEAD</tag>
 	</scm>
