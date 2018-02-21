@@ -2,7 +2,7 @@ node {
    def mvnHome
    stage('Prepare') {
       git url: 'git@github.com:fairmonk/udemy-devops.git', branch: 'develop'
-      mvnHome = tool 'maven'
+      mvnHome = tool 'maven339'
    }
    stage('Build') {
       if (isUnix()) {
